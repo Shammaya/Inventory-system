@@ -1,39 +1,6 @@
 {
   "items": [
-    {
-      "name": "",
-      "price": 0,
-      "type": "",
-      "brand": "",
-      "id": 1
-    },
-    {
-      "name": "bill",
-      "price": 0,
-      "type": "person",
-      "brand": "great",
-      "id": 2
-    },
-    {
-      "name": "",
-      "price": 0,
-      "type": "",
-      "brand": "",
-      "id": 3
-    },
-    {
-      "name": "bill",
-      "price": 0,
-      "type": "person",
-      "brand": "great",
-      "id": 4
-    },
-    {
-      "name": "bill",
-      "price": "3",
-      "type": "person",
-      "brand": "great",
-      "id": 5
-    }
+    
+  ]
   ]
 }
